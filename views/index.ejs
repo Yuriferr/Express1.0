@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Projeto Individual</title>
+        <link rel="stylesheet" href="/style/style.css">
+    </head>
+    <body>
+        <div class="apresentacao">
+            <div class="border_img">
+                <img class="perfil" src="/img/img_perfil.jpeg">
+            </div>
+            <h1 class="nome"><%= nome %> <%= sobrenome %></h1>
+            <h2>Idade: <%= idade %></h2>
+            <h2 class="descricao">Descrição Do Projeto:</h2>
+            <h3><%= descricao_projeto %></h3>
+        </div>
+
+
+        <main>
+            <img src="" alt="pokemon" class="pokemon_img">
+
+            <h1 class="pokemon_data">
+                <span class="pokemon_number"></span>
+                <span class="pokemon_name"></span>
+            </h1>
+
+            <form class="form">
+                <input type="search" class="input_search" placeholder="Nome ou Numero" required>
+            </form>
+
+            <div class="buttons">
+                <button class="button btn-prev">Anterior <</button>
+                <button class="button btn-next">Proximo ></button>
+            </div>
+
+            <img src="/img/pokedex.png" alt="pokedex" class="pokedex">
+        </main>
+
+        <div class="agradecimentos">
+            <h1><%= agradecimentos %></h1>
+        </div>
+        
+        <script src="/scripts/script.js"></script>
+    </body>
+</html>
