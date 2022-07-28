@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#sobre">Sobre</a>.
   <a href="#imagem">Prévia</a>.
-  <a href="#sobre">Autor</a>.
+  <a href="#autor">Autor</a>.
 </p>
 
 # Sobre
