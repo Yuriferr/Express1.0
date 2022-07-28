@@ -14,6 +14,6 @@
 
 
 # Imagem
-<img src="/public/img/previa.png">
+<img src="https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027.jpg">
 
 
