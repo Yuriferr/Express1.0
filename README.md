@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a>.
-  <a href="#imagem">Imagem</a>.
+  <a href="#imagem">Prévia</a>.
   <a href="#sobre">Autor</a>.
 </p>
 
@@ -14,4 +14,6 @@
 # Imagem
 <img src="https://i.imgur.com/DE61ped.png">
 
+#Autor
+<h1>Yuri Fernandes</h1>
 
