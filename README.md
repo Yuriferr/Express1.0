@@ -15,5 +15,5 @@
 <img src="https://i.imgur.com/DE61ped.png">
 
 # Autor
-<h1>Yuri Fernandes</h1>
+<p>Yuri Fernandes</p>
 
