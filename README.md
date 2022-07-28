@@ -14,6 +14,6 @@
 
 
 # Imagem
-<img src="/img/previa.png">
+<img src="public/img/previa.png">
 
 
