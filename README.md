@@ -14,6 +14,6 @@
 
 
 # Imagem
-<img src="[[https://ciclovivo.com.br/wp-content/uploads/2018/10/iStock-536613027.jpg](https://imgur.com/a/phbUM3W)](https://imgur.com/DE61ped)">
+<img src="https://i.imgur.com/DE61ped.png">
 
 
