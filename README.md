@@ -14,6 +14,6 @@
 
 
 # Imagem
-<img href="[public/img/previa.png](https://photos.google.com/photo/AF1QipPXS7G8naZI23q63CFmfdIPzoFoOpCE6K26fyen)">
+<img url="[public/img/previa.png](https://photos.google.com/photo/AF1QipPXS7G8naZI23q63CFmfdIPzoFoOpCE6K26fyen)">
 
 
