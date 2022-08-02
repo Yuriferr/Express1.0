@@ -47,6 +47,17 @@ body{
     margin-top: 20px;
 }
 
+.titleAPI{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #D30A40;
+    width: 20%;
+    border-radius: 15px;
+    box-shadow: 0 4px 0 #444, 0 7px 0 #000;
+    color: white;
+}
+
 main{
     display: inline-block;
     margin-top: 2%;
@@ -136,14 +147,19 @@ input[type="time"]::-webkit-clear-button
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    width: 60%;
-    font-size: clamp(8px, 5vw, 1rem);
+    width: 50%;
     padding: 20px;
     background-color: #D30A40;
     border-radius: 15px;
     color: white;
     box-shadow: 0 4px 0 #444, 0 7px 0 #000;
     margin-bottom: 50px;
+}
+
+@media (max-width: 500px) {
+    *{
+        font-size: 16px;
+    }
 }
 
 
