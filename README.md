@@ -1,10 +1,16 @@
 # Express 1.0
 
+Ver:
+```sh
+0.0.1
+```
+
+
 <p align="center">Atividade Express 1</p>
 
 <p align="center">
   <a href="#sobre">Sobre</a>.
-   <a href="#Recursos">Recursos Usados</a>.
+   <a href="#recursos">Recursos Usados</a>.
   <a href="#imagem">Prévia</a>.
   <a href="#autor">Autor</a>.
 </p>
